@@ -1,1 +1,1 @@
-[The Missing Semester](https://missing.csail.mit.edu/)
+Translation Count: 18\nSource: index.md

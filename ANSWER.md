@@ -1,1 +1,1 @@
-Translation Count: 18\nSource: index.md
+Analytics Tracking ID: G-P7WVHD84D1\n

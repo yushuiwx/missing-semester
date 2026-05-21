@@ -1,1 +1,1 @@
-Analytics Tracking ID: G-P7WVHD84D1\n
+Analytics Tracking ID: G-P7WVHD84D1
